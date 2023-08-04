@@ -1,2 +1,3 @@
-m = [i for i in range(0, 2)]
-print(m)
+text = "hello my name is"
+words = text.split(" ")
+print(words)
