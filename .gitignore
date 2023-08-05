@@ -1,3 +1,6 @@
 .exe
 .vscode
 /testing
+testing.py
+atlasutils.py
+better.py
